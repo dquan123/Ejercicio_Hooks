@@ -29,3 +29,7 @@ npm run dev
 ```
 
 Abrir http://localhost:5173 en el navegador.
+
+
+## Link del video explicativo
+https://youtu.be/EBhztjUJYdw
