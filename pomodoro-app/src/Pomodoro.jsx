@@ -152,7 +152,7 @@ export default function Pomodoro() {
 
       {/* ── Modo actual ── */}
       <p style={styles.modeLabel}>
-        {mode === 'work' ? '🍅 Tiempo de trabajo' : '☕ Descanso'}
+        {mode === 'work' ? 'Tiempo de trabajo' : '☕ Descanso'}
       </p>
 
       {/* ── Display del tiempo ── */}
